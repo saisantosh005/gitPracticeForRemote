@@ -17,4 +17,8 @@ f
 git 
 djanog
 react 
+here new lines are going to added in master
+so its master branch edited lines
+
+keep in mind thse changes
 
